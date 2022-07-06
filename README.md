@@ -4,14 +4,14 @@
 
 - 👩‍💻 **Currently learning Full Stack Development**
 
-- 💁‍♀️ **All of my projects are available at [here](https://github.com/NishaChawla18?tab=repositories)**
+- 💁‍♀️ **All of my projects are available at [here](https://github.com/nishachawla2004?tab=repositories)**
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NishaChawla18" alt="NishaChawla18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishachawla2004" alt="nishachawla2004" /></a> </p>
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishachawla18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishachawla" height="30" width="40" /></a>
- <a href="https://github.com/NishaChawla18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nishachawla" height="30" width="40" /></a>
+ <a href="https://github.com/nishachawla2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nishachawla" height="30" width="40" /></a>
 <br>
 
 ### Languages and Tools:
@@ -31,14 +31,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NishaChawla18&show_icons=true&locale=en" alt="nishachawla" />
 
-<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=NishaChawla18&layout=compact" alt="nishachawla" />
+<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishachawla2004&layout=compact" alt="nishachawla" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NishaChawla18&show_icons=true&locale=en&layout=compact" alt="nishachawla18" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishachawla2004&show_icons=true&locale=en&layout=compact" alt="nishachawla2004" />
 
 <br><br><br><br><br><br><br><br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/NishaChawla18/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NishaChawla18">
+    <img src="https://komarev.com/ghpvc/?username=nishachawla2004">
 </a>
-<a href="https://github.com/NishaChawla18?tab=followers"><img src="https://img.shields.io/github/followers/NishaChawla18?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NishaChawla18?tab=followers"><img src="https://img.shields.io/github/followers/nishachawla2004?label=Followers&style=social" alt="GitHub Badge"></a>
